@@ -4,3 +4,4 @@ ou
 git add --all
 git commit -m "Commentaires explicatifs du commit"
 git push -u origin main
+git pull https://github.com/utilisateur/projet.git main
