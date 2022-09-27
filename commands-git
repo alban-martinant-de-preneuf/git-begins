@@ -5,3 +5,6 @@ git add --all
 git commit -m "Commentaires explicatifs du commit"
 git push -u origin main
 git pull https://github.com/utilisateur/projet.git main
+
+git branch nom-de-la-branche
+git checkout nom-de-la-branche
